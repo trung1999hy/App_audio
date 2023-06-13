@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">AT tone</string>
+
+    <string name="todo">TODO</string>
+    <string name="prank_txt">Let\'s Prank</string>
+    <string name="ok_btn">OK</string>
+
+    <string name="air_horn">Air Horn</string>
+    <string name="scissors">Scissors</string>
+    <string name="halloween">Halloween</string>
+    <string name="fart">Fart</string>
+    <string name="hair_clipper">Hair Clipper</string>
+    <string name="breaking">Breaking</string>
+    <string name="stun_gun">Stun Gun</string>
+    <string name="car_horn">Car Horn</string>
+    <string name="engine_sound">Engine Sound</string>
+    <string name="police_siren">Police Siren</string>
+    <string name="door_bell">Door Bell</string>
+    <string name="man_sneeze">Man Sneeze</string>
+    <string name="toilet_flushing">Toilet Flush</string>
+    <string name="scary">Scary</string>
+    <string name="man_cough">Man Cough</string>
+    <string name="gun">Gun</string>
+    <string name="laugh_clap">Laugh &amp; Clap</string>
+    <string name="burp">Burp</string>
+    <string name="woman_cough">Woman Cough</string>
+    <string name="woman_sneeze">Woman Sneeze</string>
+
+    <string name="sound_start_soon">Your sound will play in</string>
+    <string name="simple_time_format">00:00:00</string>
+    <string name="loop">Loop</string>
+    <string name="time">Time</string>
+    <string name="BTN_RATE">Rate us</string>
+    <string name="BTN_SHARE">Share with friends</string>
+    <string name="BTN_PRIVACY">Privacy Policy</string>
+    <string name="APD_SEND_TO">Send To</string>
+    <string name="share_msg">Do Prank to your friends with funny prank sounds, and Have a fun.\n\nDownload Prankster now.\n\n</string>
+    <string name="policy_url">https://your-policy-link.html</string>
+    <string name="notice_title">Notice!</string>
+    <string name="exit_again_txt">Click again to exit</string>
+    <string name="interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="message_purchase_one">%s</string>
+    <string name="store">Store</string>
+
+    <string name="to_do">TODO</string>
+</resources>

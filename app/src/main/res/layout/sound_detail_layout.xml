@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/outer_card"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/ic_yellow_detail_bg">
+
+        <ImageView
+            android:id="@+id/effect_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="15dp"
+            android:contentDescription="@string/todo" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/effect_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/outer_card"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/tommy_bold"
+        android:gravity="center"
+        android:text="@string/laugh_clap"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+
+</RelativeLayout>

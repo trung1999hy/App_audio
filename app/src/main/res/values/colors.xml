@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#E4E4E4</color>
+    <color name="purple_500">#ECECEC</color>
+    <color name="purple_700">#D3D3D3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#8E8E8E</color>
+    <color name="light_grey">#F3F3F3</color>
+    <color name="dark_grey">#393939</color>
+    <color name="trans_grey">#5E8E8E8E</color>
+    <color name="trans_grey_dark">#63404040</color>
+    <color name="trans_white">#8AFFFFFF</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="dark_purple">#0D0025</color>
+    <color name="purple">#5800FF</color>
+    <color name="neon_purple">#7024FF</color>
+    <color name="neon_purple_dark">#5E21D3</color>
+    <color name="light_purple_1">#EFE7FF</color>
+    <color name="light_purple_2">#D8C4FF</color>
+    <color name="light_purple_3">#BC99FF</color>
+    <color name="light_purple_4">#9F6DFF</color>
+
+    <color name="sky_blue_light">#AEEFFF</color>
+    <color name="sky_blue_light_1">#4CDCFF</color>
+    <color name="sky_blue">#0cf</color>
+    <color name="sky_blue_1">#00A7D1</color>
+    <color name="sky_blue_dark">#036</color>
+
+    <color name="neon_yellow">#FFFF33</color>
+    <color name="light_yellow_1">#FAFAD2</color>
+    <color name="light_yellow_2">#FFE87C</color>
+    <color name="deep_yellow">#F5E216</color>
+    <color name="deep_yellow_1">#F6BE00</color>
+    <color name="deep_yellow_2">#D3D31A</color>
+    <color name="deep_red">#DA5138</color>
+    <color name="deep_red_1">#C5371D</color>
+
+    <color name="light_yellow">#FEFFC9</color>
+    <color name="light_electric_blue">#A2F3FF</color>
+    <color name="light_blue">#9DE1FF</color>
+    <color name="light_red">#FFB7AA</color>
+    <color name="light_green">#B2FFB6</color>
+    <color name="light_orange">#FFD6B3</color>
+    <color name="light_pink">#FFB7CC</color>
+    <color name="light_purple">#DFA7FF</color>
+
+    <color name="light_yellow_6">#efb000</color>
+    <color name="light_purple_6">#742c99</color>
+    <color name="light_pink_6">#f066b2</color>
+    <color name="light_blue_6">#35a8e0</color>
+    <color name="light_orange_6">#e98f00</color>
+    <color name="light_green_6">#39a935</color>
+    <color name="light_green_stroke">#93c01f</color>
+    <color name="light_orange_stroke">#f5cd25</color>
+    <color name="light_blue_stroke">#8ac2ec</color>
+    <color name="light_pink_stroke">#f599cb</color>
+    <color name="light_yellow_stroke">#f5cd25</color>
+    <color name="light_purple_stroke">#b47dd1</color>
+
+    <color name="light_yellow_5">#B7B84B</color>
+    <color name="light_electric_blue_5">#00A2BA</color>
+    <color name="light_blue_5">#43A7D3</color>
+    <color name="light_red_5">#FF6246</color>
+    <color name="light_green_5">#00F00E</color>
+    <color name="light_orange_5">#F06F01</color>
+    <color name="light_pink_5">#FA5B8A</color>
+    <color name="light_purple_5">#894BAD</color>
+    <color name="green_1">#47874A</color>
+
+</resources>
